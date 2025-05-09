@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+*.cover
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Data files (consider what you want to include/exclude)
+# Uncomment if you don't want to track raw data
+# data/raw/
+# Uncomment if you don't want to track processed data
+# data/processed/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
