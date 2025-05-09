@@ -4,7 +4,7 @@ A collaborative BioAI Hackathon project applying machine learning to poultry mic
 ## Team
 - Mxolisi Nene (Team Lead)
 - Karthik
-- Prometheon
+- 
 
 ## Goal
 Use publicly available poultry microbiome datasets (16S rRNA / Metagenomics) to identify microbial biomarkers associated with growth, gut health, and disease resistance using AI techniques.
